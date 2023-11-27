@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Testando Deploy Vercel</h1>
+    return <h1>Testando Deploy</h1>
 }
 
 export default Home;
